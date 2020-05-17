@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class AppData {
+
     private String[] header;
     private int[][] data;
     private int cells = 0;
